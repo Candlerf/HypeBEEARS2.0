@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xBce100cBe504643B281B252493cA4cc690cc4664",
+  "SCAN_LINK": "https://etherscan.io/address/0xbce100cbe504643b281b252493ca4cc690cc4664",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID":1
+  },
+  "NFT_NAME": "HYPEBEARS",
+  "SYMBOL": "HYPEBEARS",
+  "MAX_SUPPLY": 10000,
+  "TOTAL_SUPPLY": 987,
+  "WEI_COST": 400000000000000000,
+  "DISPLAY_COST": 0.4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Twitter",
+  "MARKETPLACE_LINK": "https://twitter.com/hypebearsclub",
+  "SHOW_BACKGROUND": true
+}
